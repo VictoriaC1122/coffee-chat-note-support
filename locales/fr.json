@@ -15,7 +15,7 @@
   "pro": "Des outils pour une routine réfléchie",
   "proBody": "Pro ajoute des modèles, des collections, des cadences de contact, des flux de travail, des rapports, un tableau d'opportunités, une bibliothèque de connaissances, des statistiques, des exportations personnalisées, des cartes et des thèmes de relations. Les abonnements mensuels et annuels incluent les mêmes outils.",
   "faq": "Un peu d'aide, quand vous en avez besoin.",
-  "backupQ": "Comment sauvegarder ou déplacer mon ordinateur portable ?",
+  "backupQ": "Comment sauvegarder ou déplacer mon carnet de notes ?",
   "backupA": "Ouvrez Paramètres → Sauvegarde et restauration pour exporter une sauvegarde JSON complète, comprenant les enregistrements, les relations et les photos. Enregistrez-le dans un endroit fiable. Pour déplacer des appareils, transférez ce fichier et importez-le sur le nouvel appareil. Prévisualisez attentivement les choix de restauration ; les exportations peuvent contenir des informations privées.",
   "reminderQ": "Pourquoi un rappel n'est-il pas apparu ?",
   "reminderA": "Vérifiez l'autorisation de notification dans les paramètres iOS, activez le rappel sur la tâche en attente et vérifiez sa date et ses paramètres de pause. Les rappels de date uniquement se produisent à 9h00 dans le fuseau horaire sélectionné pour la tâche. Les 60 prochains rappels les plus proches sont programmés et actualisés lorsque vous ouvrez ou modifiez l'application. Les modes de mise au point et les paramètres de notification du système peuvent affecter la livraison.",
