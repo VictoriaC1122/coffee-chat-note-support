@@ -8,4 +8,4 @@ Supported languages: English, Traditional Chinese, Simplified Chinese, Japanese,
 
 Serve locally with `python3 -m http.server 8765`, then open `http://localhost:8765/`. GitHub Pages should deploy the root of `main`.
 
-Public support: victoriacheeng1122@gmail.com
+Public support: victoriacheng1122@gmail.com
