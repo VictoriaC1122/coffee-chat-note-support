@@ -14,7 +14,7 @@ async function setLanguage(language,save){
  if(!languages.includes(language))language='en';
  const current=++request;
  try{
-  const response=await fetch(`locales/${language}.json`);
+  const response=await fetch(`locales/${language}.json?v=20261011-guide`);
   if(!response.ok)throw new Error('Locale unavailable');
   const copy=await response.json(); if(current!==request)return;
   document.querySelectorAll('[data-i18n]').forEach(node=>{if(copy[node.dataset.i18n])node.textContent=copy[node.dataset.i18n]});

@@ -1,6 +1,6 @@
 # Coffee Chat Note support
 
-Public support, privacy, terms and contact pages for Coffee Chat Note.
+Product overview, a four-step beginner guide, FAQ, privacy, terms and contact pages for Coffee Chat Note. The homepage has no email callout; contact details remain on the dedicated contact and policy pages.
 
 Static HTML, CSS and JavaScript hosted on GitHub Pages. No accounts, trackers, analytics packages, cookies or remote fonts. The only locally saved website preference is the selected language. App Store review contact details and notebook data are not included.
 
